@@ -9,4 +9,4 @@ to have always displaying on your device.
 After you select media source,
 simply hit the start button and enjoy!
 
-*May not be supported on certain browsers*
+*May not be supported on certain browsers and devices*
